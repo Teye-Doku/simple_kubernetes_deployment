@@ -1,0 +1,5 @@
+deployment:
+  replicaCount: 1
+  image: courageabam/nodeapp
+service:
+  port: 3000
